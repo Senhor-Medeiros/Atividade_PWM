@@ -1,5 +1,3 @@
-Aqui está o texto pronto para você copiar e colar, com os títulos em destaque:
-
 # Controle de Servomotor por PWM com Raspberry Pi Pico W
 
 ## Descrição do Projeto
@@ -59,9 +57,3 @@ Este projeto integra conceitos fundamentais como o controle de hardware via **PW
 
 ## Autor
 **Eduardo Medeiros Magalhães**
-
----
-
-Este projeto foi desenvolvido como parte da Tarefa Individual da Unidade 4 | Capítulo 7 do curso ministrado pelo Prof. Dr. Ricardo Menezes Prates.
-
-> Para mais informações, consulte o enunciado oficial da tarefa ou entre em contato com o autor.
